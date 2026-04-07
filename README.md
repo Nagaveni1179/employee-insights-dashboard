@@ -1,53 +1,53 @@
-Employee Data Analysis Dashboard
 📊 Employee Data Analysis Dashboard (Tableau)
 📌 Project Overview
-Developed an interactive Tableau dashboard to analyze employee data and workforce trends within an organization. The dashboard provides insights into key HR metrics such as employee distribution, job satisfaction, education background, and travel patterns, enabling better workforce planning and decision-making.
+Developed an interactive Tableau dashboard to analyze employee data and workforce trends within an organization. The dashboard provides insights into key HR metrics such as employee distribution, job satisfaction, education background, and travel patterns, enabling data-driven decision-making.
 
 🔧 Tools & Technologies
 Tableau
 
 Excel / CSV (Dataset)
 
+Data Visualization
+
 📊 Key Features
-Department-wise Employee Distribution to understand workforce allocation across R&D, Sales, and HR
+Department-wise Employee Distribution (R&D, Sales, HR)
 
-Education Field vs Job Satisfaction Analysis using combined bar and line charts
+Education Field vs Job Satisfaction Analysis (Bar + Line Chart)
 
-Degree-wise Employee Breakdown using treemap visualization
+Degree-wise Employee Breakdown (Treemap)
 
-Gender Distribution Analysis using pie chart
+Gender Distribution Analysis (Pie Chart)
 
 Travel Frequency Analysis (Travel Rarely, Frequently, Non-Travel)
 
-Interactive filters (e.g., Marital Status) for dynamic data exploration
+Interactive Filters (Marital Status)
 
 📷 Dashboard Preview
-
-
+<p align="center"> <img src="Screenshot 2026-04-07 124750.png" alt="Employee Dashboard" width="800"/> </p>
 💡 Key Insights
 R&D department has the highest number of employees
 
-Majority of employees fall under the “Travel Rarely” category
+Majority of employees travel rarely
 
-Life Sciences field has the highest employee count
+Life Sciences has the highest employee count
 
-Job satisfaction is relatively consistent across education fields
+Job satisfaction is consistent across fields
 
-Male employees slightly outnumber female employees
+Male employees are higher in number
 
 🎯 Business Impact
 Helps HR teams understand workforce distribution
 
-Identifies patterns in employee satisfaction
+Supports better hiring and planning decisions
 
-Supports strategic planning for hiring and resource allocation
+Identifies employee satisfaction trends
 
-Provides insights into employee demographics and behavior
+Improves decision-making using data insights
 
 📂 Project Files
 Analyzing Employee Trends.csv → Dataset
 
-Analyzing Employee Trends.twbx → Tableau workbook
+Analyzing Employee Trends.twbx → Tableau file
 
-Dashboard.png → Dashboard screenshot
+Screenshot 2026-04-07 124750.png → Dashboard image
 
