@@ -40,6 +40,6 @@ Developed an interactive Tableau dashboard to analyze employee data and workforc
 
 ## 📂 Files Included
 
-* employee_dashboard.twb → Tableau workbook
-* employee_data.csv → Dataset
+* Analyzing Employee Trends(AET).twbx → Tableau workbook
+* Analyzing Employee Trends.csv → Dataset
 * dashboard.png → Preview image
