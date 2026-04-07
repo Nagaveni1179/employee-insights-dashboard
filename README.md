@@ -1,29 +1,53 @@
+Employee Data Analysis Dashboard
 📊 Employee Data Analysis Dashboard (Tableau)
-📌 Overview
-This project showcases an interactive Employee Data Analysis Dashboard created using Tableau. The dashboard helps analyze workforce trends, employee distribution, job satisfaction, education, and travel behavior.
+📌 Project Overview
+Developed an interactive Tableau dashboard to analyze employee data and workforce trends within an organization. The dashboard provides insights into key HR metrics such as employee distribution, job satisfaction, education background, and travel patterns, enabling better workforce planning and decision-making.
 
-🎯 Objectives
-Understand employee distribution across departments
+🔧 Tools & Technologies
+Tableau
 
-Analyze job satisfaction by education field
+Excel / CSV (Dataset)
 
-Visualize gender diversity
+📊 Key Features
+Department-wise Employee Distribution to understand workforce allocation across R&D, Sales, and HR
 
-Explore employee qualification levels
+Education Field vs Job Satisfaction Analysis using combined bar and line charts
 
-Study travel frequency patterns
+Degree-wise Employee Breakdown using treemap visualization
 
-🛠️ Tools & Technologies
-📊 Tableau Desktop
+Gender Distribution Analysis using pie chart
 
-📁 CSV Dataset
+Travel Frequency Analysis (Travel Rarely, Frequently, Non-Travel)
 
-💻 GitHub
+Interactive filters (e.g., Marital Status) for dynamic data exploration
+
+📷 Dashboard Preview
+
+
+💡 Key Insights
+R&D department has the highest number of employees
+
+Majority of employees fall under the “Travel Rarely” category
+
+Life Sciences field has the highest employee count
+
+Job satisfaction is relatively consistent across education fields
+
+Male employees slightly outnumber female employees
+
+🎯 Business Impact
+Helps HR teams understand workforce distribution
+
+Identifies patterns in employee satisfaction
+
+Supports strategic planning for hiring and resource allocation
+
+Provides insights into employee demographics and behavior
 
 📂 Project Files
-├── Analyzing Employee Trends.csv
-├── Analyzing Employee Trends.twbx
-├── Dashboard.png
-└── README.md
-🖼️ Dashboard Preview
-📌 Make sure you upload your image as Dashboard.png in the same repository# employee-insights-dashboard
+Analyzing Employee Trends.csv → Dataset
+
+Analyzing Employee Trends.twbx → Tableau workbook
+
+Dashboard.png → Dashboard screenshot
+
