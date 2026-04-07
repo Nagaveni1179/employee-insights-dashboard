@@ -1,57 +1,40 @@
-# 📊 Employee Data Analysis Dashboard
+**Employee_Data_Analysis_Dashboard**
 
-## 📌 Overview
+**📊 Employee Data Analysis Dashboard (Tableau)**
 
-This project presents an interactive **Employee Data Analysis Dashboard** that provides insights into workforce distribution, education background, job satisfaction, and travel patterns. The dashboard helps stakeholders make data-driven HR decisions.
+**📌 Project Overview**
+Developed an interactive Tableau dashboard to analyze employee data and workforce trends. The dashboard provides insights into employee distribution, job satisfaction, education background, and travel patterns, enabling HR teams to make data-driven decisions.
 
----
+**🔧 Tools & Technologies**
+Tableau
+Excel / CSV (Dataset)
 
-## 🎯 Key Features
+**📊 Key Features**
+KPI indicators for Employee Count and Active Employees
+Department-wise employee distribution (R&D, Sales, HR)
+Education Field analysis with Average Job Satisfaction comparison
+Degree-wise breakdown (Bachelor’s, Master’s, Associate, High School)
+Gender distribution visualization
+Travel frequency analysis (Non-Travel, Travel Frequently, Travel Rarely)
+Interactive filters for Marital Status and Gender for dynamic exploration
 
-* 📈 **Department Analysis** – Visualizes employee distribution across departments (R&D, Sales, HR)
-* 🎓 **Education Insights** – Shows employee count and average job satisfaction by education field
-* 🧑‍🤝‍🧑 **Gender Distribution** – Pie chart representing gender balance
-* 🎓 **Degree Breakdown** – Tree map of employee qualifications
-* ✈️ **Travel Analysis** – Employee travel frequency insights
-* 📊 **Interactive Filters** – Filter data by marital status and other attributes
+**📷 Dashboard Preview**
+dashboard.png
 
----
+💡 Key Insights
+R&D department has the highest number of employees, followed by Sales and HR
+Employees from Life Sciences and Medical backgrounds form the largest workforce segment
+Average job satisfaction is relatively consistent across education fields
+Majority of employees travel rarely, indicating limited travel requirements
+Male employees outnumber female employees in the dataset
 
-## 🖼️ Dashboard Preview
+**🎯 Business Impact**
+Helps HR teams monitor workforce distribution and trends
+Supports better decision-making for employee engagement and satisfaction
+Identifies key education backgrounds contributing to the workforce
+Assists in optimizing travel policies and workforce planning
 
-![Dashboard Screenshot](dashboard.png)
-
----
-
-## 🛠️ Tech Stack
-
-* **Data Visualization Tool:** Tableau / Power BI *(update based on your tool)*
-* **Data Processing:** Python / Excel *(if applicable)*
-* **Version Control:** Git & GitHub
-
----
-
-## 📂 Project Structure
-
-```
-├── data/
-│   └── employee_data.csv
-├── dashboard/
-│   └── employee_dashboard.pbix / .twbx
-├── images/
-│   └── dashboard.png
-├── README.md
-
-## 📊 Insights Derived
-
-* R&D department has the highest number of employees.
-* Employees with Life Sciences and Medical backgrounds dominate the workforce.
-* Average job satisfaction varies slightly across education fields.
-* Majority of employees travel rarely.
-* Gender distribution shows a higher proportion of male employees.
-
-
-
-
-
-⭐ If you found this project helpful, please give it a star!
+**📂 Files Included**
+employee_dashboard.twb → Tableau workbook file
+employee_data.csv → Dataset used for analysis
+dashboard.png → Dashboard preview image
