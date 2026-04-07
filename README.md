@@ -21,7 +21,7 @@ Developed an interactive Tableau dashboard to analyze employee data and workforc
 
 ## 📷 Dashboard Preview
 
-dashboard.png
+Tableau Dashboard.png
 
 ## 💡 Key Insights
 
